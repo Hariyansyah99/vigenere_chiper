@@ -1,0 +1,14 @@
+body{
+    background-color: blue;
+}
+
+.container {
+    background-color: #ffff;
+}
+
+
+
+#box {
+    width: 253px;
+	height: 150px;
+}
